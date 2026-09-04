@@ -7,7 +7,7 @@ about:
   head: d42f7fc
   archived: false
   latestVersion: 3.23.0-beta.2
-  collectedAt: 2026-09-04T19:55:38Z
+  collectedAt: 2026-09-04T20:44:55Z
 timeline:
   created: 2018-08-07
   lastCommit: 2026-09-02
@@ -84,6 +84,104 @@ total:
   openIssue: 35
   commit: 3292
 ---
+path: /home/runner/.x-repo/github.com/okteto/okteto
+collectedAt: 2026-09-04T20:44:58Z
+loc:
+  Go:
+    code: 137567
+    comments: 15782
+    blanks: 16715
+    files: 797
+  Json:
+    code: 1565
+    comments: 0
+    blanks: 0
+    files: 8
+  Sh:
+    code: 1066
+    comments: 241
+    blanks: 218
+    files: 11
+  Yaml:
+    code: 744
+    comments: 5
+    blanks: 49
+    files: 31
+  Dockerfile:
+    code: 241
+    comments: 49
+    blanks: 69
+    files: 9
+  Batch:
+    code: 190
+    comments: 0
+    blanks: 55
+    files: 2
+  Makefile:
+    code: 122
+    comments: 0
+    blanks: 31
+    files: 3
+  CSharp:
+    code: 90
+    comments: 2
+    blanks: 12
+    files: 3
+  Xml:
+    code: 48
+    comments: 0
+    blanks: 4
+    files: 1
+  Java:
+    code: 38
+    comments: 0
+    blanks: 13
+    files: 4
+  MsBuild:
+    code: 25
+    comments: 0
+    blanks: 3
+    files: 3
+  Python:
+    code: 15
+    comments: 2
+    blanks: 5
+    files: 1
+  JavaScript:
+    code: 9
+    comments: 0
+    blanks: 3
+    files: 1
+  Ruby:
+    code: 7
+    comments: 0
+    blanks: 2
+    files: 1
+  Ini:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Php:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 1318
+    blanks: 700
+    files: 17
+  Text:
+    code: 0
+    comments: 7
+    blanks: 0
+    files: 1
+total:
+  code: 142130
+  comments: 17414
+  blanks: 17897
+  files: 896
 ---
 date: "2026-08-24"
 repo:
