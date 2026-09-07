@@ -2,13 +2,13 @@ about:
   description: "Develop your applications directly in your Kubernetes Cluster"
   license: Apache-2.0
   homepage: https://okteto.com
-  head: d42f7fc
+  head: 1fd8b5b
   archived: false
   latestVersion: "3.23.0-beta.2"
-  collectedAt: 2026-09-07T05:50:39Z
+  collectedAt: 2026-09-07T18:41:05Z
 timeline:
   created: 2018-08-07
-  lastCommit: 2026-09-02
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-02
 popularity:
   star: 3541
@@ -29,61 +29,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 3
-    mergedPR: 17
-    openPR: 2
+    mergedPR: 19
+    openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 16
+    commit: 18
   last60d:
     since: 2026-07-09
     release: 7
-    mergedPR: 47
-    openPR: 2
+    mergedPR: 49
+    openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 42
+    commit: 44
   last90d:
     since: 2026-06-09
     release: 12
-    mergedPR: 79
-    openPR: 2
+    mergedPR: 81
+    openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 66
+    commit: 68
   last180d:
     since: 2026-03-11
     release: 21
-    mergedPR: 158
-    openPR: 2
+    mergedPR: 160
+    openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 145
+    commit: 147
   last360d:
     since: 2025-09-12
     release: 63
-    mergedPR: 305
-    openPR: 2
+    mergedPR: 307
+    openPR: 0
     closedIssue: 4
     openIssue: 1
-    commit: 274
+    commit: 276
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 601
-    openPR: 2
+    mergedPR: 603
+    openPR: 0
     closedIssue: 9
     openIssue: 1
-    commit: 503
+    commit: 505
 total:
   release: 568
-  mergedPR: 3326
-  openPR: 2
+  mergedPR: 3328
+  openPR: 0
   closedIssue: 1448
   openIssue: 35
-  commit: 3292
+  commit: 3294
 ---
 path: /home/runner/.x-repo/github.com/okteto/okteto
-collectedAt: 2026-09-07T05:50:42Z
+collectedAt: 2026-09-07T18:41:09Z
 loc:
   Go:
     code: 137567
@@ -312,7 +312,7 @@ checks:
       - 'Info:   0 out of   3 pipCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:50:43+00:00
+  collectedAt: 2026-09-07T18:41:10+00:00
   platform:
     darwin/arm64:
       name:  okteto-Darwin-arm64
