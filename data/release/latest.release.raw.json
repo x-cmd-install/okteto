@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 115510272,
       "digest": "sha256:cc1b6a369f394b26f4117f8bed6eebafc145920bf6fb4bbccaf056d0a36c8ba0",
-      "download_count": 73,
+      "download_count": 74,
       "created_at": "2026-09-02T15:21:38Z",
       "updated_at": "2026-09-02T15:21:43Z",
       "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.23.0/okteto.exe"
