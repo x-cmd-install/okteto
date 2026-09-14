@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,544 · **Forks**: 316 · **Open issues**: 1,483 · **Contributors**: 79
+- **Stars**: 3,544 · **Forks**: 317 · **Open issues**: 1,483 · **Contributors**: 79
 
 ## Totals (cumulative)
 
-- **Releases**: 570 · **Merged PRs**: 3337 · **Open PRs**: 0 · **Closed issues**: 1448 · **Open issues**: 35 · **Commits**: 3302
+- **Releases**: 570 · **Merged PRs**: 3337 · **Open PRs**: 1 · **Closed issues**: 1448 · **Open issues**: 35 · **Commits**: 3302
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 5 | 23 | 0 | 0 | 0 | 26 |
-| last60d | 2026-07-15 | 9 | 54 | 0 | 1 | 0 | 52 |
-| 90d | 2026-06-15 | 14 | 83 | 0 | 1 | 0 | 76 |
-| last180d | 2026-03-17 | 23 | 165 | 0 | 1 | 0 | 155 |
-| 360d | 2025-09-18 | 65 | 316 | 0 | 3 | 1 | 284 |
-| last720d | 2024-09-23 | 100 | 594 | 0 | 9 | 1 | 509 |
+| 30d | 2026-08-15 | 5 | 23 | 1 | 0 | 0 | 21 |
+| last60d | 2026-07-16 | 9 | 54 | 1 | 1 | 0 | 49 |
+| 90d | 2026-06-16 | 14 | 82 | 1 | 1 | 0 | 70 |
+| last180d | 2026-03-18 | 23 | 163 | 1 | 1 | 0 | 147 |
+| 360d | 2025-09-19 | 65 | 315 | 1 | 3 | 1 | 281 |
+| last720d | 2024-09-24 | 100 | 589 | 1 | 9 | 1 | 503 |
 
 ## Release assets
 
@@ -81,16 +81,6 @@ Lowest-scoring checks:
 | [okteto.exe](https://github.com/okteto/okteto/releases/download/3.23.1/okteto.exe) | 110.1 MiB | `other` |
 | [okteto.exe.sha256](https://github.com/okteto/okteto/releases/download/3.23.1/okteto.exe.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/okteto). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `3.23.1` | ✅ latest |
-| Nix unstable | `3.23.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.22.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `okteto` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -100,4 +90,4 @@ Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:05:54Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:06:54Z._
