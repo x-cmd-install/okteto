@@ -4,7 +4,7 @@
 
 Develop your applications directly in your Kubernetes Cluster
 
-![okteto](https://repo.x-cmd.io/okteto.svg)
+[![x-cmd/install — okteto Code Quality Monitoring Repo Card](https://repo.x-cmd.io/okteto.svg)](https://x-cmd.com/install/okteto)
 
 ## Install
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.23.1-beta.1` (2026-09-08)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-18
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 3,547 · **Forks**: 317 · **Open issues**: 1,483 · **Contributors**: 79
+- **Stars**: 3,548 · **Forks**: 317 · **Open issues**: 1,483 · **Contributors**: 79
 
 ## Totals (cumulative)
 
-- **Releases**: 570 · **Merged PRs**: 3337 · **Open PRs**: 7 · **Closed issues**: 1448 · **Open issues**: 35 · **Commits**: 3302
+- **Releases**: 570 · **Merged PRs**: 3342 · **Open PRs**: 1 · **Closed issues**: 1448 · **Open issues**: 35 · **Commits**: 3307
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 22 | 7 | 0 | 0 | 21 |
-| last60d | 2026-07-20 | 9 | 51 | 7 | 1 | 0 | 49 |
-| 90d | 2026-06-20 | 14 | 77 | 7 | 1 | 0 | 70 |
-| last180d | 2026-03-22 | 23 | 161 | 7 | 1 | 0 | 147 |
-| 360d | 2025-09-23 | 65 | 313 | 7 | 3 | 1 | 281 |
-| last720d | 2024-09-28 | 100 | 577 | 7 | 9 | 1 | 494 |
+| 30d | 2026-08-21 | 5 | 26 | 1 | 0 | 0 | 20 |
+| last60d | 2026-07-22 | 9 | 51 | 1 | 1 | 0 | 40 |
+| 90d | 2026-06-22 | 14 | 81 | 1 | 1 | 0 | 65 |
+| last180d | 2026-03-24 | 23 | 163 | 1 | 1 | 0 | 147 |
+| 360d | 2025-09-25 | 65 | 318 | 1 | 3 | 1 | 279 |
+| last720d | 2024-09-30 | 100 | 573 | 1 | 9 | 1 | 499 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:00:49Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:01:12Z._
