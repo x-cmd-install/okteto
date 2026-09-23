@@ -4,7 +4,7 @@
 
 Develop your applications directly in your Kubernetes Cluster
 
-[![x-cmd/install — okteto Code Quality Monitoring Repo Card](https://repo.x-cmd.io/okteto.svg?lang=zh)](https://x-cmd.com/install/okteto)
+[![x-cmd/install — okteto Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/okteto.svg?lang=zh)](https://x-cmd.com/install/okteto)
 
 ## 安装
 
@@ -58,12 +58,12 @@ x install okteto
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 27 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 8 | 47 | 0 | 1 | 0 | 0 |
-| 90d | 2026-06-24 | 14 | 77 | 0 | 1 | 0 | 0 |
-| last180d | 2026-03-26 | 23 | 161 | 0 | 1 | 0 | 0 |
-| 360d | 2025-09-27 | 64 | 318 | 0 | 3 | 1 | 0 |
-| last720d | 2024-10-02 | 100 | 559 | 0 | 9 | 1 | 488 |
+| 30d | 2026-08-24 | 5 | 26 | 0 | 0 | 0 | 21 |
+| last60d | 2026-07-25 | 8 | 47 | 0 | 1 | 0 | 41 |
+| 90d | 2026-06-25 | 14 | 77 | 0 | 1 | 0 | 66 |
+| last180d | 2026-03-27 | 22 | 160 | 0 | 1 | 0 | 148 |
+| 360d | 2025-09-28 | 64 | 318 | 0 | 3 | 1 | 280 |
+| last720d | 2024-10-03 | 100 | 559 | 0 | 9 | 1 | 486 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ okteto 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:09:55Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:06:09Z._
