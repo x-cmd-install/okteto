@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 570 · **Merged PRs**: 3346 · **Open PRs**: 1 · **Closed issues**: 1448 · **Open issues**: 38 · **Commits**: 3311
+- **Releases**: 570 · **Merged PRs**: 3346 · **Open PRs**: 2 · **Closed issues**: 1448 · **Open issues**: 38 · **Commits**: 3311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 5 | 25 | 1 | 0 | 3 | 24 |
-| last60d | 2026-07-29 | 7 | 44 | 1 | 1 | 3 | 44 |
-| 90d | 2026-06-29 | 13 | 78 | 1 | 1 | 3 | 69 |
-| last180d | 2026-03-31 | 22 | 159 | 1 | 1 | 3 | 151 |
-| 360d | 2025-10-02 | 62 | 315 | 1 | 3 | 4 | 283 |
-| last720d | 2024-10-07 | 100 | 556 | 1 | 9 | 4 | 488 |
+| 30d | 2026-08-29 | 4 | 25 | 2 | 0 | 3 | 18 |
+| last60d | 2026-07-30 | 7 | 44 | 2 | 1 | 3 | 37 |
+| 90d | 2026-06-30 | 13 | 76 | 2 | 1 | 3 | 66 |
+| last180d | 2026-04-01 | 22 | 158 | 2 | 1 | 3 | 142 |
+| 360d | 2025-10-03 | 62 | 314 | 2 | 3 | 4 | 277 |
+| last720d | 2024-10-08 | 100 | 553 | 2 | 9 | 4 | 487 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:15:00Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:18:18Z._
