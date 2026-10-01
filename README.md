@@ -14,11 +14,11 @@ x install okteto
 
 ## Code insight
 
-Total: **142,109** lines of code across **858** files in the top 5 languages.
+Total: **142,299** lines of code across **858** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 137,938 | 15,867 | 16,792 | 799 |
+| Go | 138,128 | 15,885 | 16,804 | 799 |
 | Json | 1,565 | 0 | 0 | 8 |
 | Sh | 1,066 | 241 | 218 | 11 |
 | Yaml | 744 | 5 | 49 | 31 |
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `3.23.1-beta.1` (2026-09-08)
-- **Last commit**: 2026-09-28
+- **Latest**: `3.24.0-beta.1` (2026-09-08)
+- **Last commit**: 2026-09-30
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 3,549 · **Forks**: 319 · **Open issues**: 1,486 · **Contributors**: 79
+- **Stars**: 3,549 · **Forks**: 320 · **Open issues**: 1,486 · **Contributors**: 79
 
 ## Totals (cumulative)
 
-- **Releases**: 570 · **Merged PRs**: 3348 · **Open PRs**: 6 · **Closed issues**: 1448 · **Open issues**: 38 · **Commits**: 3313
+- **Releases**: 571 · **Merged PRs**: 3351 · **Open PRs**: 6 · **Closed issues**: 1448 · **Open issues**: 38 · **Commits**: 3316
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 4 | 27 | 6 | 0 | 3 | 20 |
-| last60d | 2026-08-01 | 7 | 45 | 6 | 1 | 3 | 39 |
-| 90d | 2026-07-02 | 11 | 74 | 6 | 1 | 3 | 68 |
-| last180d | 2026-04-03 | 22 | 159 | 6 | 1 | 3 | 144 |
-| 360d | 2025-10-05 | 62 | 316 | 6 | 3 | 4 | 279 |
-| last720d | 2024-10-10 | 100 | 554 | 6 | 9 | 4 | 487 |
+| 30d | 2026-09-01 | 5 | 28 | 6 | 0 | 3 | 23 |
+| last60d | 2026-08-02 | 8 | 48 | 6 | 1 | 3 | 42 |
+| 90d | 2026-07-03 | 10 | 76 | 6 | 1 | 3 | 71 |
+| last180d | 2026-04-04 | 23 | 162 | 6 | 1 | 3 | 147 |
+| 360d | 2025-10-06 | 63 | 318 | 6 | 3 | 4 | 282 |
+| last720d | 2024-10-11 | 100 | 556 | 6 | 9 | 4 | 490 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:35:46Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:02:42Z._
