@@ -14,11 +14,11 @@ x install okteto
 
 ## Code insight
 
-Total: **142,406** lines of code across **858** files in the top 5 languages.
+Total: **142,746** lines of code across **858** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 138,235 | 15,885 | 16,817 | 799 |
+| Go | 138,575 | 15,903 | 16,851 | 799 |
 | Json | 1,565 | 0 | 0 | 8 |
 | Sh | 1,066 | 241 | 218 | 11 |
 | Yaml | 744 | 5 | 49 | 31 |
@@ -42,44 +42,44 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `3.24.0-beta.3` (2026-09-08)
-- **Last commit**: 2026-10-06
+- **Latest**: `3.24.0-beta.3` (2026-10-07)
+- **Last commit**: 2026-10-07
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 3,551 · **Forks**: 322 · **Open issues**: 1,486 · **Contributors**: 81
+- **Stars**: 3,553 · **Forks**: 322 · **Open issues**: 1,486 · **Contributors**: 81
 
 ## Totals (cumulative)
 
-- **Releases**: 573 · **Merged PRs**: 3364 · **Open PRs**: 8 · **Closed issues**: 1450 · **Open issues**: 36 · **Commits**: 3328
+- **Releases**: 574 · **Merged PRs**: 3367 · **Open PRs**: 6 · **Closed issues**: 1450 · **Open issues**: 36 · **Commits**: 3331
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 5 | 36 | 8 | 1 | 2 | 28 |
-| last60d | 2026-08-08 | 8 | 55 | 8 | 1 | 2 | 52 |
-| 90d | 2026-07-09 | 12 | 85 | 8 | 2 | 2 | 78 |
-| last180d | 2026-04-10 | 23 | 167 | 8 | 2 | 2 | 157 |
-| 360d | 2025-10-12 | 65 | 326 | 8 | 3 | 3 | 289 |
-| last720d | 2024-10-17 | 100 | 568 | 8 | 10 | 3 | 502 |
+| 30d | 2026-09-08 | 6 | 33 | 6 | 1 | 2 | 0 |
+| last60d | 2026-08-09 | 9 | 58 | 6 | 1 | 2 | 0 |
+| 90d | 2026-07-10 | 13 | 87 | 6 | 2 | 2 | 0 |
+| last180d | 2026-04-11 | 24 | 169 | 6 | 2 | 2 | 0 |
+| 360d | 2025-10-13 | 66 | 329 | 6 | 3 | 3 | 0 |
+| last720d | 2024-10-18 | 100 | 571 | 6 | 10 | 3 | 505 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [latest](https://github.com/okteto/okteto/releases/download/3.23.1/latest) | 7 B | `other` |
-| [okteto-Darwin-arm64](https://github.com/okteto/okteto/releases/download/3.23.1/okteto-Darwin-arm64) | 104.3 MiB | `native/darwin/arm64` |
-| [okteto-Darwin-arm64.sha256](https://github.com/okteto/okteto/releases/download/3.23.1/okteto-Darwin-arm64.sha256) | 90 B | `native/darwin/arm64` |
-| [okteto-Darwin-x86_64](https://github.com/okteto/okteto/releases/download/3.23.1/okteto-Darwin-x86_64) | 110.6 MiB | `native/darwin/x64` |
-| [okteto-Darwin-x86_64.sha256](https://github.com/okteto/okteto/releases/download/3.23.1/okteto-Darwin-x86_64.sha256) | 91 B | `native/darwin/x64` |
-| [okteto-Linux-arm64](https://github.com/okteto/okteto/releases/download/3.23.1/okteto-Linux-arm64) | 100.1 MiB | `native/linux/arm64` |
-| [okteto-Linux-arm64.sha256](https://github.com/okteto/okteto/releases/download/3.23.1/okteto-Linux-arm64.sha256) | 89 B | `native/linux/arm64` |
-| [okteto-Linux-x86_64](https://github.com/okteto/okteto/releases/download/3.23.1/okteto-Linux-x86_64) | 107.2 MiB | `native/linux/x64` |
-| [okteto-Linux-x86_64.sha256](https://github.com/okteto/okteto/releases/download/3.23.1/okteto-Linux-x86_64.sha256) | 90 B | `native/linux/x64` |
-| [okteto.exe](https://github.com/okteto/okteto/releases/download/3.23.1/okteto.exe) | 110.1 MiB | `other` |
-| [okteto.exe.sha256](https://github.com/okteto/okteto/releases/download/3.23.1/okteto.exe.sha256) | 81 B | `other` |
+| [latest](https://github.com/okteto/okteto/releases/download/3.24.0/latest) | 7 B | `other` |
+| [okteto-Darwin-arm64](https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Darwin-arm64) | 105.3 MiB | `native/darwin/arm64` |
+| [okteto-Darwin-arm64.sha256](https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Darwin-arm64.sha256) | 90 B | `native/darwin/arm64` |
+| [okteto-Darwin-x86_64](https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Darwin-x86_64) | 111.7 MiB | `native/darwin/x64` |
+| [okteto-Darwin-x86_64.sha256](https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Darwin-x86_64.sha256) | 91 B | `native/darwin/x64` |
+| [okteto-Linux-arm64](https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Linux-arm64) | 101.1 MiB | `native/linux/arm64` |
+| [okteto-Linux-arm64.sha256](https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Linux-arm64.sha256) | 89 B | `native/linux/arm64` |
+| [okteto-Linux-x86_64](https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Linux-x86_64) | 108.2 MiB | `native/linux/x64` |
+| [okteto-Linux-x86_64.sha256](https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Linux-x86_64.sha256) | 90 B | `native/linux/x64` |
+| [okteto.exe](https://github.com/okteto/okteto/releases/download/3.24.0/okteto.exe) | 111.1 MiB | `other` |
+| [okteto.exe.sha256](https://github.com/okteto/okteto/releases/download/3.24.0/okteto.exe.sha256) | 81 B | `other` |
 
 ## Improve this data
 
@@ -90,4 +90,4 @@ Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:49:56Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:58:23Z._
