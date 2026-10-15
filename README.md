@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.24.0-beta.3` (2026-10-07)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 11
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 574 · **Merged PRs**: 3375 · **Open PRs**: 4 · **Closed issues**: 1451 · **Open issues**: 35 · **Commits**: 3339
+- **Releases**: 574 · **Merged PRs**: 3376 · **Open PRs**: 5 · **Closed issues**: 1451 · **Open issues**: 35 · **Commits**: 3340
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 4 | 38 | 4 | 1 | 2 | 36 |
-| last60d | 2026-08-15 | 9 | 61 | 4 | 1 | 2 | 57 |
-| 90d | 2026-07-16 | 13 | 92 | 4 | 2 | 2 | 87 |
-| last180d | 2026-04-17 | 24 | 167 | 4 | 2 | 2 | 157 |
-| 360d | 2025-10-19 | 66 | 336 | 4 | 3 | 3 | 299 |
-| last720d | 2024-10-24 | 100 | 574 | 4 | 10 | 3 | 510 |
+| 30d | 2026-09-15 | 4 | 39 | 5 | 1 | 2 | 37 |
+| last60d | 2026-08-16 | 9 | 62 | 5 | 1 | 2 | 58 |
+| 90d | 2026-07-17 | 13 | 92 | 5 | 2 | 2 | 88 |
+| last180d | 2026-04-18 | 24 | 167 | 5 | 2 | 2 | 158 |
+| 360d | 2025-10-20 | 66 | 337 | 5 | 3 | 3 | 300 |
+| last720d | 2024-10-25 | 100 | 573 | 5 | 9 | 3 | 510 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:44:07Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:27:45Z._
