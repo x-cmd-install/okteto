@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/okteto/okteto/releases/405943372",
-  "assets_url": "https://api.github.com/repos/okteto/okteto/releases/405943372/assets",
-  "upload_url": "https://uploads.github.com/repos/okteto/okteto/releases/405943372/assets{?name,label}",
-  "html_url": "https://github.com/okteto/okteto/releases/tag/3.24.0",
-  "id": 405943372,
+  "url": "https://api.github.com/repos/okteto/okteto/releases/419826865",
+  "assets_url": "https://api.github.com/repos/okteto/okteto/releases/419826865/assets",
+  "upload_url": "https://uploads.github.com/repos/okteto/okteto/releases/419826865/assets{?name,label}",
+  "html_url": "https://github.com/okteto/okteto/releases/tag/3.24.1",
+  "id": 419826865,
   "author": {
     "login": "irespaldiza",
     "id": 11633327,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOCJLt4c4YMjRM",
-  "tag_name": "3.24.0",
-  "target_commitish": "490fe2ebf825104001a8349ed3b14b7013cfde6d",
-  "name": "Okteto CLI - 3.24.0",
+  "node_id": "RE_kwDOCJLt4c4ZBgyx",
+  "tag_name": "3.24.1",
+  "target_commitish": "555dbb00bd7e9de0852afd8a4c835ccba1486aaf",
+  "name": "Okteto CLI - 3.24.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-01T11:37:40Z",
-  "updated_at": "2026-10-07T16:12:53Z",
-  "published_at": "2026-10-07T16:12:53Z",
+  "created_at": "2026-10-21T15:56:46Z",
+  "updated_at": "2026-10-21T17:04:44Z",
+  "published_at": "2026-10-21T17:04:44Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/619168453",
-      "id": 619168453,
-      "node_id": "RA_kwDOCJLt4c4k58LF",
+      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/663212451",
+      "id": 663212451,
+      "node_id": "RA_kwDOCJLt4c4nh9Gj",
       "name": "latest",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 7,
-      "digest": "sha256:bd55fa8916c0153c4cca02f5149f15fd22cc7049e7a4101c72bb5e5a5a2b0365",
-      "download_count": 5,
-      "created_at": "2026-10-07T16:12:46Z",
-      "updated_at": "2026-10-07T16:12:46Z",
-      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.0/latest"
+      "digest": "sha256:cfac38d5eec78734069960faaff27c5ec0623b53cc773ee8a5d0663d37fb18d1",
+      "download_count": 3,
+      "created_at": "2026-10-21T17:04:33Z",
+      "updated_at": "2026-10-21T17:04:33Z",
+      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.1/latest"
     },
     {
-      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/619168449",
-      "id": 619168449,
-      "node_id": "RA_kwDOCJLt4c4k58LB",
+      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/663212445",
+      "id": 663212445,
+      "node_id": "RA_kwDOCJLt4c4nh9Gd",
       "name": "okteto-Darwin-arm64",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 110413858,
-      "digest": "sha256:e6c245dbb958e9a502574f62b192bb910890f2c3f6246dfea8cac022e73af423",
-      "download_count": 61,
-      "created_at": "2026-10-07T16:12:46Z",
-      "updated_at": "2026-10-07T16:12:53Z",
-      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Darwin-arm64"
+      "size": 113485474,
+      "digest": "sha256:cec23c3458851e129b092faf343e87929ba9b641e4179b74bc4f25a637f01f0a",
+      "download_count": 6,
+      "created_at": "2026-10-21T17:04:33Z",
+      "updated_at": "2026-10-21T17:04:43Z",
+      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.1/okteto-Darwin-arm64"
     },
     {
-      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/619168455",
-      "id": 619168455,
-      "node_id": "RA_kwDOCJLt4c4k58LH",
+      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/663212450",
+      "id": 663212450,
+      "node_id": "RA_kwDOCJLt4c4nh9Gi",
       "name": "okteto-Darwin-arm64.sha256",
       "label": "",
       "uploader": {
@@ -138,16 +138,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 90,
-      "digest": "sha256:7fe37876dd5f4e955fb253e8bb6b4805468ab8dc469402474c2624713762654b",
-      "download_count": 6,
-      "created_at": "2026-10-07T16:12:46Z",
-      "updated_at": "2026-10-07T16:12:46Z",
-      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Darwin-arm64.sha256"
+      "digest": "sha256:98c1bcafd4bcecc92d476ecfdb6278b7c45d482bf0695c5dccc0ed8784e0dac1",
+      "download_count": 5,
+      "created_at": "2026-10-21T17:04:33Z",
+      "updated_at": "2026-10-21T17:04:33Z",
+      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.1/okteto-Darwin-arm64.sha256"
     },
     {
-      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/619168445",
-      "id": 619168445,
-      "node_id": "RA_kwDOCJLt4c4k58K9",
+      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/663212453",
+      "id": 663212453,
+      "node_id": "RA_kwDOCJLt4c4nh9Gl",
       "name": "okteto-Darwin-x86_64",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 117092064,
-      "digest": "sha256:a65c2eeab31885811db438657f777ffc4d9983756bee6c5b9f5357ba0a2a25f4",
-      "download_count": 29,
-      "created_at": "2026-10-07T16:12:45Z",
-      "updated_at": "2026-10-07T16:12:51Z",
-      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Darwin-x86_64"
+      "size": 120217680,
+      "digest": "sha256:14b9a0079e1004ddeeb541b8922e27321a7d0a56250d340b639501c442816762",
+      "download_count": 5,
+      "created_at": "2026-10-21T17:04:33Z",
+      "updated_at": "2026-10-21T17:04:44Z",
+      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.1/okteto-Darwin-x86_64"
     },
     {
-      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/619168454",
-      "id": 619168454,
-      "node_id": "RA_kwDOCJLt4c4k58LG",
+      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/663212461",
+      "id": 663212461,
+      "node_id": "RA_kwDOCJLt4c4nh9Gt",
       "name": "okteto-Darwin-x86_64.sha256",
       "label": "",
       "uploader": {
@@ -210,16 +210,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 91,
-      "digest": "sha256:6ad508525e4340f74e698c8e8ae7f63a0b46533c6232d51e0951b64e1acda430",
+      "digest": "sha256:2ac09e24654b0b876f6b2f5f2383afdf684fe9d75a516a93dffd5d418a5ccbd0",
       "download_count": 5,
-      "created_at": "2026-10-07T16:12:46Z",
-      "updated_at": "2026-10-07T16:12:46Z",
-      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Darwin-x86_64.sha256"
+      "created_at": "2026-10-21T17:04:33Z",
+      "updated_at": "2026-10-21T17:04:33Z",
+      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.1/okteto-Darwin-x86_64.sha256"
     },
     {
-      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/619168450",
-      "id": 619168450,
-      "node_id": "RA_kwDOCJLt4c4k58LC",
+      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/663212447",
+      "id": 663212447,
+      "node_id": "RA_kwDOCJLt4c4nh9Gf",
       "name": "okteto-Linux-arm64",
       "label": "",
       "uploader": {
@@ -245,17 +245,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 105971874,
-      "digest": "sha256:69131cd3b0f39dd02b4e654d71ebbe05978b7f9f385529dc68d325c236ab786e",
-      "download_count": 26,
-      "created_at": "2026-10-07T16:12:46Z",
-      "updated_at": "2026-10-07T16:12:50Z",
-      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Linux-arm64"
+      "size": 108920994,
+      "digest": "sha256:abba0d24bb994bd2b265da5f9c348c16f0b962fa061077a058314fac5e56b5e5",
+      "download_count": 4,
+      "created_at": "2026-10-21T17:04:33Z",
+      "updated_at": "2026-10-21T17:04:44Z",
+      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.1/okteto-Linux-arm64"
     },
     {
-      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/619168444",
-      "id": 619168444,
-      "node_id": "RA_kwDOCJLt4c4k58K8",
+      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/663212458",
+      "id": 663212458,
+      "node_id": "RA_kwDOCJLt4c4nh9Gq",
       "name": "okteto-Linux-arm64.sha256",
       "label": "",
       "uploader": {
@@ -282,16 +282,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 89,
-      "digest": "sha256:1ac6cb365b2b9b359699ccd7f545ab685ae1d0f364591093b23dc1b2054b8da9",
+      "digest": "sha256:c20be2e6d1db700c903721741e5b6753c23134e53d5048c97308c62f7fcd4fda",
       "download_count": 4,
-      "created_at": "2026-10-07T16:12:45Z",
-      "updated_at": "2026-10-07T16:12:46Z",
-      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Linux-arm64.sha256"
+      "created_at": "2026-10-21T17:04:33Z",
+      "updated_at": "2026-10-21T17:04:33Z",
+      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.1/okteto-Linux-arm64.sha256"
     },
     {
-      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/619168451",
-      "id": 619168451,
-      "node_id": "RA_kwDOCJLt4c4k58LD",
+      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/663212456",
+      "id": 663212456,
+      "node_id": "RA_kwDOCJLt4c4nh9Go",
       "name": "okteto-Linux-x86_64",
       "label": "",
       "uploader": {
@@ -317,17 +317,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 113479842,
-      "digest": "sha256:ade3e7ce85ba148b2df6f91cceddd0fdb500377e0c197e154f7b0e7d5455f9d1",
-      "download_count": 190,
-      "created_at": "2026-10-07T16:12:46Z",
-      "updated_at": "2026-10-07T16:12:50Z",
-      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Linux-x86_64"
+      "size": 116523170,
+      "digest": "sha256:6caece80d296b3b626796d928d8b8303f387a88b955dc43e1c779dc2aee3f908",
+      "download_count": 7,
+      "created_at": "2026-10-21T17:04:33Z",
+      "updated_at": "2026-10-21T17:04:43Z",
+      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.1/okteto-Linux-x86_64"
     },
     {
-      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/619168456",
-      "id": 619168456,
-      "node_id": "RA_kwDOCJLt4c4k58LI",
+      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/663212448",
+      "id": 663212448,
+      "node_id": "RA_kwDOCJLt4c4nh9Gg",
       "name": "okteto-Linux-x86_64.sha256",
       "label": "",
       "uploader": {
@@ -354,16 +354,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 90,
-      "digest": "sha256:8ec9fd327c18c39cba4701623f954ccdcf229a72eed8e5da0828ade01b21a3a7",
-      "download_count": 152,
-      "created_at": "2026-10-07T16:12:46Z",
-      "updated_at": "2026-10-07T16:12:46Z",
-      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.0/okteto-Linux-x86_64.sha256"
+      "digest": "sha256:ea4295c35580dff5dc2096055af40b54294470ba8a43cb12cf2d16b80efafda6",
+      "download_count": 6,
+      "created_at": "2026-10-21T17:04:33Z",
+      "updated_at": "2026-10-21T17:04:33Z",
+      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.1/okteto-Linux-x86_64.sha256"
     },
     {
-      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/619168447",
-      "id": 619168447,
-      "node_id": "RA_kwDOCJLt4c4k58K_",
+      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/663212454",
+      "id": 663212454,
+      "node_id": "RA_kwDOCJLt4c4nh9Gm",
       "name": "okteto.exe",
       "label": "",
       "uploader": {
@@ -389,17 +389,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 116503552,
-      "digest": "sha256:2d409da47ad73e676cae2d08239b8da622d04cad2ca8c2ca0f0cc957af8029c2",
-      "download_count": 96,
-      "created_at": "2026-10-07T16:12:45Z",
-      "updated_at": "2026-10-07T16:12:50Z",
-      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.0/okteto.exe"
+      "size": 119625216,
+      "digest": "sha256:157d2cb3677dbf9e4aa07a8f3fd71688881d804ae1fc0f6ba27a6b4898e1ef83",
+      "download_count": 10,
+      "created_at": "2026-10-21T17:04:33Z",
+      "updated_at": "2026-10-21T17:04:44Z",
+      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.1/okteto.exe"
     },
     {
-      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/619168446",
-      "id": 619168446,
-      "node_id": "RA_kwDOCJLt4c4k58K-",
+      "url": "https://api.github.com/repos/okteto/okteto/releases/assets/663212463",
+      "id": 663212463,
+      "node_id": "RA_kwDOCJLt4c4nh9Gv",
       "name": "okteto.exe.sha256",
       "label": "",
       "uploader": {
@@ -426,14 +426,14 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 81,
-      "digest": "sha256:4a6eb4a4bd348e558f6c169b278535561e5b4cc55390a604787997031022756e",
-      "download_count": 53,
-      "created_at": "2026-10-07T16:12:45Z",
-      "updated_at": "2026-10-07T16:12:46Z",
-      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.0/okteto.exe.sha256"
+      "digest": "sha256:29e1be1488d9ea159146889b04c68cdf977559fa23fd17b3b74425ac79ae28a2",
+      "download_count": 35,
+      "created_at": "2026-10-21T17:04:33Z",
+      "updated_at": "2026-10-21T17:04:33Z",
+      "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.24.1/okteto.exe.sha256"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/okteto/okteto/tarball/3.24.0",
-  "zipball_url": "https://api.github.com/repos/okteto/okteto/zipball/3.24.0",
-  "body": "<!-- Release notes generated using configuration in .github/release.yml at 3.24.0 -->\n\n\n\n**Full Changelog**: https://github.com/okteto/okteto/compare/3.23.1...3.24.0"
+  "tarball_url": "https://api.github.com/repos/okteto/okteto/tarball/3.24.1",
+  "zipball_url": "https://api.github.com/repos/okteto/okteto/zipball/3.24.1",
+  "body": "<!-- Release notes generated using configuration in .github/release.yml at 3.24.1 -->\n\n\n\n**Full Changelog**: https://github.com/okteto/okteto/compare/3.24.0...3.24.1"
 }
