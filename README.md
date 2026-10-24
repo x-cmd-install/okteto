@@ -14,11 +14,11 @@ x install okteto
 
 ## Code insight
 
-Total: **147,174** lines of code across **873** files in the top 5 languages.
+Total: **147,745** lines of code across **875** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 142,990 | 16,436 | 17,597 | 814 |
+| Go | 143,561 | 16,515 | 17,680 | 816 |
 | Json | 1,580 | 0 | 0 | 8 |
 | Sh | 1,066 | 241 | 218 | 11 |
 | Yaml | 738 | 5 | 55 | 31 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.24.1-beta.1` (2026-10-21)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 11
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 576 · **Merged PRs**: 3389 · **Open PRs**: 4 · **Closed issues**: 1451 · **Open issues**: 35 · **Commits**: 3352
+- **Releases**: 576 · **Merged PRs**: 3391 · **Open PRs**: 2 · **Closed issues**: 1451 · **Open issues**: 35 · **Commits**: 3354
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 6 | 46 | 4 | 1 | 2 | 43 |
-| last60d | 2026-08-24 | 11 | 72 | 4 | 1 | 2 | 69 |
-| 90d | 2026-07-25 | 14 | 93 | 4 | 2 | 2 | 89 |
-| last180d | 2026-04-26 | 26 | 175 | 4 | 2 | 2 | 166 |
-| 360d | 2025-10-28 | 66 | 345 | 4 | 3 | 3 | 309 |
-| last720d | 2024-11-02 | 100 | 578 | 4 | 9 | 3 | 514 |
+| 30d | 2026-09-24 | 6 | 46 | 2 | 1 | 2 | 45 |
+| last60d | 2026-08-25 | 11 | 73 | 2 | 1 | 2 | 71 |
+| 90d | 2026-07-26 | 14 | 95 | 2 | 2 | 2 | 91 |
+| last180d | 2026-04-27 | 26 | 174 | 2 | 2 | 2 | 168 |
+| 360d | 2025-10-29 | 66 | 347 | 2 | 3 | 3 | 311 |
+| last720d | 2024-11-03 | 100 | 580 | 2 | 9 | 3 | 516 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:45:37Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:34:44Z._
