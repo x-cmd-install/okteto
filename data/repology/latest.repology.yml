@@ -126,9 +126,9 @@
     - okteto-fish-completion
     - okteto-zsh-completion
   visiblename: okteto
-  version: 3.23.1
-  origversion: 3.23.1-1.1
-  status: outdated
+  version: 3.24.1
+  origversion: 3.24.1-1.1
+  status: newest
   summary: Develop your applications directly in your Kubernetes Cluster
   licenses:
     - Apache-2.0
