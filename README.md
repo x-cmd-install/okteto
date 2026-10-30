@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `3.24.1-beta.1` (2026-10-21)
-- **Last commit**: 2026-10-28
+- **Latest**: `3.25.0-beta.1` (2026-10-21)
+- **Last commit**: 2026-10-29
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 3,554 · **Forks**: 322 · **Open issues**: 1,488 · **Contributors**: 82
+- **Stars**: 3,554 · **Forks**: 322 · **Open issues**: 1,490 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 576 · **Merged PRs**: 3397 · **Open PRs**: 7 · **Closed issues**: 1451 · **Open issues**: 37 · **Commits**: 3360
+- **Releases**: 577 · **Merged PRs**: 3399 · **Open PRs**: 8 · **Closed issues**: 1451 · **Open issues**: 39 · **Commits**: 3362
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 6 | 44 | 7 | 0 | 2 | 38 |
-| last60d | 2026-08-30 | 10 | 76 | 7 | 1 | 4 | 71 |
-| 90d | 2026-07-31 | 13 | 94 | 7 | 2 | 4 | 88 |
-| last180d | 2026-05-02 | 25 | 176 | 7 | 2 | 4 | 163 |
-| 360d | 2025-11-03 | 64 | 349 | 7 | 3 | 5 | 313 |
-| last720d | 2024-11-08 | 100 | 576 | 7 | 9 | 5 | 514 |
+| 30d | 2026-09-30 | 7 | 43 | 8 | 0 | 4 | 40 |
+| last60d | 2026-08-31 | 11 | 78 | 8 | 1 | 6 | 73 |
+| 90d | 2026-08-01 | 14 | 96 | 8 | 2 | 6 | 90 |
+| last180d | 2026-05-03 | 26 | 178 | 8 | 2 | 6 | 165 |
+| 360d | 2025-11-04 | 65 | 350 | 8 | 3 | 7 | 315 |
+| last720d | 2024-11-09 | 100 | 578 | 8 | 9 | 7 | 516 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:40:49Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:42:13Z._
