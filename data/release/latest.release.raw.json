@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 114403346,
       "digest": "sha256:c5dc96fbaa3e4dbe4ff3ad0729a040bc08f1513f07fd8bc8b3682940ca8d1f1b",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-05T15:54:32Z",
       "updated_at": "2026-11-05T15:54:56Z",
       "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.25.0/okteto-Darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 121227040,
       "digest": "sha256:236fb6f83062412fbb2af9b80e6c8ff64b8ee33dc83d0989124c799a79c08b4e",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-05T15:54:32Z",
       "updated_at": "2026-11-05T15:54:55Z",
       "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.25.0/okteto-Darwin-x86_64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": "sha256:45871c49056888e96d3e69a09d51a325373147bc7e448bc2981d2a57a16174f6",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-05T15:54:32Z",
       "updated_at": "2026-11-05T15:54:32Z",
       "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.25.0/okteto-Darwin-x86_64.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 109904034,
       "digest": "sha256:c95daafc023bbfc755104c0129f63d5a84181225b6c9e216fb130d18c6d027b6",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-05T15:54:32Z",
       "updated_at": "2026-11-05T15:54:55Z",
       "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.25.0/okteto-Linux-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 117510306,
       "digest": "sha256:574ccb24b80f880f867ccca62a6c07901fd53f38ce8e62a889630f7d770b05dd",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-11-05T15:54:32Z",
       "updated_at": "2026-11-05T15:54:55Z",
       "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.25.0/okteto-Linux-x86_64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 90,
       "digest": "sha256:8c9d043067e8eaafb74a8ca2ea40aff2a33cbba31e95953d4fa248a716ffec27",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-05T15:54:32Z",
       "updated_at": "2026-11-05T15:54:32Z",
       "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.25.0/okteto-Linux-x86_64.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 120633856,
       "digest": "sha256:b1cbc19998eefef2bf56a1d4340836259c218fc697dbf10a0a52316ac5f664c9",
-      "download_count": 37,
+      "download_count": 55,
       "created_at": "2026-11-05T15:54:32Z",
       "updated_at": "2026-11-05T15:54:55Z",
       "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.25.0/okteto.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:4d4ccde1248e9d0a8026a748777c61c73e6b2a2adeda7262ab402713b1e7316d",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-11-05T15:54:32Z",
       "updated_at": "2026-11-05T15:54:33Z",
       "browser_download_url": "https://github.com/okteto/okteto/releases/download/3.25.0/okteto.exe.sha256"
