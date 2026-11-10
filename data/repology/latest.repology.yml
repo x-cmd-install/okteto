@@ -1,23 +1,10 @@
-- repo: nix_stable_25_05
-  srcname: okteto
+- repo: scoop
+  subrepo: main
+  binname: okteto
   visiblename: okteto
-  version: 3.7.0
+  version: 3.25.0
   origversion: null
-  status: outdated
-  summary: Develop your applications directly in your Kubernetes Cluster
-  maintainers:
-    - wentworth@outlook.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: okteto
-  visiblename: okteto
-  version: 3.13.2
-  origversion: null
-  status: outdated
-  summary: Develop your applications directly in your Kubernetes Cluster
-  maintainers:
-    - wentworth@outlook.com
+  status: newest
   licenses:
     - Apache-2.0
 - repo: aur
@@ -93,6 +80,28 @@
     - wentworth@outlook.com
   licenses:
     - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: okteto
+  visiblename: okteto
+  version: 3.7.0
+  origversion: null
+  status: outdated
+  summary: Develop your applications directly in your Kubernetes Cluster
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: okteto
+  visiblename: okteto
+  version: 3.13.2
+  origversion: null
+  status: outdated
+  summary: Develop your applications directly in your Kubernetes Cluster
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: okteto
   visiblename: okteto
@@ -126,20 +135,11 @@
     - okteto-fish-completion
     - okteto-zsh-completion
   visiblename: okteto
-  version: 3.24.1
-  origversion: 3.24.1-1.1
-  status: outdated
+  version: 3.25.0
+  origversion: 3.25.0-1.1
+  status: newest
   summary: Develop your applications directly in your Kubernetes Cluster
   licenses:
     - Apache-2.0
   categories:
     - Unspecified
-- repo: scoop
-  subrepo: main
-  binname: okteto
-  visiblename: okteto
-  version: 3.25.0
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
