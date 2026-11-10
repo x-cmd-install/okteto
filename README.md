@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,554 · **Forks**: 322 · **Open issues**: 1,492 · **Contributors**: 85
+- **Stars**: 3,554 · **Forks**: 323 · **Open issues**: 1,492 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 581 · **Merged PRs**: 3417 · **Open PRs**: 2 · **Closed issues**: 1456 · **Open issues**: 36 · **Commits**: 3375
+- **Releases**: 581 · **Merged PRs**: 3417 · **Open PRs**: 5 · **Closed issues**: 1456 · **Open issues**: 36 · **Commits**: 3375
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 7 | 40 | 2 | 4 | 2 | 35 |
-| last60d | 2026-09-09 | 11 | 82 | 2 | 6 | 3 | 72 |
-| 90d | 2026-08-10 | 16 | 107 | 2 | 6 | 3 | 95 |
-| last180d | 2026-05-12 | 28 | 187 | 2 | 7 | 3 | 174 |
-| 360d | 2025-11-13 | 62 | 358 | 2 | 8 | 4 | 321 |
-| last720d | 2024-11-18 | 100 | 587 | 2 | 14 | 4 | 526 |
+| 30d | 2026-10-11 | 7 | 40 | 5 | 4 | 2 | 35 |
+| last60d | 2026-09-11 | 11 | 80 | 5 | 6 | 3 | 72 |
+| 90d | 2026-08-12 | 16 | 106 | 5 | 6 | 3 | 95 |
+| last180d | 2026-05-14 | 28 | 187 | 5 | 7 | 3 | 174 |
+| 360d | 2025-11-15 | 60 | 357 | 5 | 8 | 4 | 321 |
+| last720d | 2024-11-20 | 100 | 580 | 5 | 14 | 4 | 521 |
 
 ## Release assets
 
@@ -83,13 +83,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **13** distros on [repology.org](https://repology.org/project/okteto). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **13** distros on [repology.org](https://repology.org/project/okteto). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `3.25.0` | ✅ latest |
 | Nix unstable | `3.24.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.24.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `3.25.0` | ✅ latest |
 
 ## Improve this data
 
@@ -100,4 +100,4 @@ Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:52:28Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:25:05Z._
