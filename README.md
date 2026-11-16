@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 7 | 43 | 6 | 6 | 2 | 32 |
-| last60d | 2026-09-16 | 11 | 89 | 7 | 8 | 3 | 76 |
-| 90d | 2026-08-17 | 16 | 112 | 7 | 8 | 3 | 102 |
-| last180d | 2026-05-19 | 28 | 195 | 7 | 9 | 3 | 183 |
-| 360d | 2025-11-20 | 60 | 361 | 7 | 10 | 4 | 327 |
-| last720d | 2024-11-25 | 100 | 584 | 7 | 16 | 4 | 517 |
+| 30d | 2026-10-17 | 7 | 43 | 6 | 6 | 2 | 32 |
+| last60d | 2026-09-17 | 11 | 86 | 7 | 8 | 3 | 76 |
+| 90d | 2026-08-18 | 16 | 111 | 7 | 8 | 3 | 102 |
+| last180d | 2026-05-20 | 28 | 195 | 7 | 9 | 3 | 183 |
+| 360d | 2025-11-21 | 58 | 360 | 7 | 10 | 4 | 327 |
+| last720d | 2024-11-26 | 100 | 579 | 7 | 16 | 4 | 517 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:44:15Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:54:50Z._
