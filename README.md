@@ -14,12 +14,12 @@ x install okteto
 
 ## Code insight
 
-Total: **149,572** lines of code across **864** files in the top 5 languages.
+Total: **150,787** lines of code across **867** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 146,767 | 17,358 | 18,348 | 838 |
-| Json | 1,373 | 0 | 0 | 1 |
+| Go | 147,973 | 17,469 | 18,510 | 841 |
+| Json | 1,382 | 0 | 0 | 1 |
 | Sh | 742 | 157 | 168 | 9 |
 | Yaml | 421 | 5 | 47 | 15 |
 | Dockerfile | 153 | 44 | 27 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.25.0-beta.3` (2026-11-05)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 11
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 581 · **Merged PRs**: 3446 · **Open PRs**: 8 · **Closed issues**: 1460 · **Open issues**: 36 · **Commits**: 3403
+- **Releases**: 581 · **Merged PRs**: 3447 · **Open PRs**: 7 · **Closed issues**: 1460 · **Open issues**: 36 · **Commits**: 3404
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 5 | 53 | 7 | 7 | 3 | 41 |
-| last60d | 2026-09-25 | 11 | 99 | 8 | 9 | 4 | 90 |
-| 90d | 2026-08-26 | 16 | 128 | 8 | 9 | 4 | 115 |
-| last180d | 2026-05-28 | 27 | 210 | 8 | 10 | 4 | 191 |
-| 360d | 2025-11-29 | 52 | 373 | 8 | 10 | 5 | 341 |
-| last720d | 2024-12-04 | 100 | 582 | 8 | 17 | 5 | 523 |
+| 30d | 2026-10-26 | 5 | 49 | 6 | 5 | 3 | 42 |
+| last60d | 2026-09-26 | 11 | 100 | 7 | 7 | 3 | 91 |
+| 90d | 2026-08-27 | 16 | 127 | 7 | 9 | 4 | 116 |
+| last180d | 2026-05-29 | 27 | 209 | 7 | 10 | 4 | 192 |
+| 360d | 2025-11-30 | 52 | 374 | 7 | 10 | 5 | 342 |
+| last720d | 2024-12-05 | 100 | 581 | 7 | 17 | 5 | 520 |
 
 ## Release assets
 
@@ -81,16 +81,6 @@ Lowest-scoring checks:
 | [okteto.exe](https://github.com/okteto/okteto/releases/download/3.25.0/okteto.exe) | 115.0 MiB | `other` |
 | [okteto.exe.sha256](https://github.com/okteto/okteto/releases/download/3.25.0/okteto.exe.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/okteto). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `3.25.0` | ✅ latest |
-| Nix unstable | `3.25.0` | ✅ latest |
-| openSUSE Tumbleweed | `3.25.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `okteto` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -100,4 +90,4 @@ Install metadata for okteto lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:17:14Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:21:04Z._
